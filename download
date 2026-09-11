@@ -1,0 +1,23 @@
+# Local config / secrets
+.env
+.env.*
+frontend/config.js
+
+# AWS
+.aws/
+samconfig.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives / generated
+*.zip
